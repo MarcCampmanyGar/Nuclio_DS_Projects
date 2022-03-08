@@ -13,6 +13,7 @@ Utilizando el dataset de Olist (alrededor de 100 mil registros) se construye una
 
 ### 3. **[Series Temporales](Series_Temporales.ipynb)**
 Análisis y estudio de ARIMA para la predicción temporal de un dataset básico creado por nosotros.
+Modelos y series temporales más complejas con xgboost en Kaggle. Aplicado en el proyecto Capstone de Fintech.
 
 ### 4. **[PCA y collaborative Filtering](PCA_CF_Anime.ipynb)**
 Crearemos 2 modelos CF: uno basando en usuarios (personas similares a ti, han comprado/visto/les ha gustado estas cosas) y otro basado en productos (las personas que han comprado este producto, también han comprado estos).El dataset que vamos a utilizar es un dataset de Animes japoneses.
