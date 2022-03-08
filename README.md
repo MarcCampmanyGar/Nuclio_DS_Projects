@@ -23,5 +23,5 @@ Nuestros principales objetivos serán:
 - Segmentar nuestros clientes utilizando el dataset reducido
 - Utilizar la similitud del coseno para hacer recomendaciones a nuestro clientes (user and product based)
 
-### 5. **[Deep Learning]**
-Trabajar con el dataset de imágenes CIFAR-10 para optimizar un modelo y conseguir superar el 90% de accuracy en la predicción de clases.
+### 5. **[Deep Learning](CIFAR_90_60_.ipynb)**
+Trabajar con el dataset de imágenes CIFAR-10 para optimizar un modelo y conseguir superar el 90% de accuracy en la predicción de clases. Todo el procedimiento está explicado en el siguiente documento 
